@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+    background: #32261A;
+    font-family: 'Lobster', cursive; 
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 33px 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white; 
+}
+main{
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+}
+.img-logo{
+    margin-right: 25px;
+}
+.logo{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.links{
+    display: flex;
+}
+.container{
+    padding: 0 100px;
+}
+.nav_link{
+    color: white;
+    text-decoration: none;
+    margin-right: 122px;
+    transition: 0,3s;
+} 
+.nav_link:last-child{
+    margin-right: 0;
+}
+.nav_link:hover{
+    color:#F9B985;
+    border-bottom: 2px solid #F9B985;
+}
+h1{
+    margin-bottom: 29px;
+    color: white;
+}
+h3{
+    margin-bottom: 20px;
+    color: white;
+}
+.ima{
+    background-image: url(http://kakrisovat.top/wp-content/uploads/2019/01/how-to-draw-a-graduation-cap-pinterest.png);
+    height: 20px;
+    width: 20px;
+}
+.imb{
+    background-image: url(http://infoglaz.ru/wp-content/uploads/storyimages_1330109239_shutterstock91756778.jpg);
+    height: 20px;
+    width: 20px;
+}
+.imc{
+    background-image: url(https://kz.e-katalog.com/jpg_zoom1/1850116.jpg);
+    height: 20px;
+    width: 20px;
+}
+.button{
+    padding: 25px;
+    color: white;
+    background-color: #F9B985;;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 90px;
+    padding: 50px;
+    border-radius: 10px;
+    background-color: #F9B985
+}
+h2{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.products{
+    display:flex;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+body {
+    font-family: 'Great Vibes', cursive;
+}  
+.img{
+    height:100px;
+    width:100px;
+    background-size: cover;
+    background-position: center;
+    margin-right: 10px;
+}
+h3{
+    margin-right: 10px;
+}
+.hello{
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+     text-align: center;
+}
+.products-item{
+    background:  #F9B985;
+    border-radius: 15px;
+}
+.dov{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 60px;
+}
+
+
